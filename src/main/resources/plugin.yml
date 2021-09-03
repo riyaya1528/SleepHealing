@@ -1,0 +1,3 @@
+name: SleepHealing
+version: '${project.version}'
+main: riyaya1528.paper.sleephealing.SleepHealing
